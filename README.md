@@ -1,14 +1,14 @@
 
-## Sobre o Projeto
+## About the project
 
-Projeto MeetApp criado para o Bootcamp Rocketseat utilizando Reeact, React Native e Node JS.
+MeetApp project created for Bootcamp Rocketseat using Reeact, React Native and Node JS.
 
-## Aplicações
+## Applications
 
-# mobile
-# web
-# backend
+* mobile
+* web
+* backend
 
-## Contato
+## Contact
 
 Carlos Perrout - [Github](https://github.com/caxandre) - **carlosperrout@gmail.com.br**

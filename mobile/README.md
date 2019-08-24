@@ -5,11 +5,11 @@ Mobile application created for the registration of meetups using React Native CL
 
 ## Screens
 
-Authentication
-Register
-Dashboard
-Subscriptions
-Profile
+* Authentication
+* Register
+* Dashboard
+* Subscriptions
+* Profile
 
 ## Installation
 

@@ -5,13 +5,13 @@ MeetApp application front end designed to manage the creation of edit meetups us
 
 ## Screens
 
-Authentication
-Register
-Dashboard
-Meetup Details
-New Meetup
-Update Meetup
-Profile
+* Authentication
+* Register
+* Dashboard
+* Meetup Details
+* New Meetup
+* Update Meetup
+* Profile
 
 ## Installation
 
